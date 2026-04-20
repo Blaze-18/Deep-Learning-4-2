@@ -1,0 +1,32 @@
+# Ignore dataset folders
+Assignment-1/Dataset/
+Assignment-2/dataset/
+Dataset/
+dataset/
+
+# Ignore results and outputs
+results/
+**/results/
+
+# Ignore common image formats
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tif
+*.tiff
+*.webp
+
+# Ignore NumPy archives and arrays
+*.npy
+*.npz
+
+# Ignore model checkpoints and large artifacts
+*.ckpt
+*.pth
+*.pt
+*.h5
+
+# OS files
+Thumbs.db
